@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSSI</string>
+    <string name="turns">Turns (ms)</string>
+    <string name="scan">Scan-</string>
+</resources>
